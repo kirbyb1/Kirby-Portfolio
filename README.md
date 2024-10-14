@@ -9,10 +9,19 @@ is not meant to run within the program.
 exploration and analysis. This would include looking for missing value along with exploring certain aspects of the data that was used within 
 that project.
 
-# Project 3: Dodger recommendations project
+# Project 3: Dodger Recommendations Project
  This project was to help the Los Angeles Dodgers Major League management improve attendance. This project used a data set on the Los Angeles Dodgers Major League. Used the data to make a recommendation to management
  on how to improve attendance. Told a story with my analysis and clearly explained the steps used 
 took to conclude.
 
-# Project 4: Movie recommendations
+# Project 4: Movie Recommendations
  This project uses predictive analytics to create a recommender system that allows users to input a movie that they would like along with recommending other films that they may want to watch. It used the small MovieLens data set to create a recommender system that would allow the user to input a movie of their choosing along with providing ten other films for them to watch. 
+ 
+# Project 6: Infographic on airline safety
+This is an infographic that shows many arguments on how airline travel is safe along with convincing people that it is not as dangerous as the media claims it to be. 
+
+# Project 7: Dog Intelligence
+This project explores how the intelligence of dogs is based on many factors such as dog bread along with the size of the dog with the help of R programming.
+
+# Project 8: NBA Salary Prediction
+This project looks at the NBA along with exploring whether players are being paid a fair amount based on these skills by using statistics to see if players are being over or underpaid.

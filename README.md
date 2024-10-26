@@ -16,6 +16,9 @@ took to conclude.
 
 # Project 4: Movie Recommendations
  This project uses predictive analytics to create a recommender system that allows users to input a movie that they would like along with recommending other films that they may want to watch. It used the small MovieLens data set to create a recommender system that would allow the user to input a movie of their choosing along with providing ten other films for them to watch. 
+
+# Project 5: Executive Summary Flight Safety 
+This is a PowerPoint presentation to show how safe airline travel is. The presentation shows many cases of how much the airline industry has improved when it comes to safety
  
 # Project 6: Infographic on airline safety
 This is an infographic that shows many arguments on how airline travel is safe along with convincing people that it is not as dangerous as the media claims it to be. 
